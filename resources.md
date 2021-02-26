@@ -1,6 +1,6 @@
 ---
 title: Resources
-layout: services
+layout: resources
 intro_image: "images/illustrations/purim.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false

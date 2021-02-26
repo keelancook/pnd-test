@@ -25,14 +25,14 @@ bodyClass: page-home
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for service in site.services %}
+      {% for service in site.resources %}
       <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+        <div class="resource resource-summary">
+          <div class="resource-content">
+            <h2 class="resource-title">
+              <a href="{{site.baseurl}}{{ service.url }}">{{ resource.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ resource.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>

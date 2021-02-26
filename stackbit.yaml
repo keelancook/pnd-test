@@ -174,10 +174,10 @@ models:
         name: date
       - type: string
         name: bodyClass
-  service:
+  Resource:
     type: page
-    label: Service
-    layout: service
+    label: Resource
+    layout: resource
     fields:
       - type: string
         name: title
@@ -187,10 +187,10 @@ models:
         name: featured
       - type: number
         name: weight
-  services:
+  resources:
     type: page
-    label: Services
-    layout: services
+    label: Resources
+    layout: resources
     fields:
       - type: string
         name: title
