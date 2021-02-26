@@ -24,7 +24,7 @@ seo:
   meta_twitter_creator: "@zerostatic"
 
 collections:
-  services:
+  resources:
     output: true
   team:
     output: true
