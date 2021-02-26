@@ -3,7 +3,7 @@ title: "What is Diaspora Missions?"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 1
-layout: service
+layout: resource
 ---
 
 Diaspora is a big, unfamiliar word for most people. The following is a brief explainer of what is meant by the terms *diaspora* and *diaspora missions* and why they are so important for local churches in America today.

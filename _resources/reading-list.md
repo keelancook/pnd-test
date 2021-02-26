@@ -3,7 +3,7 @@ title: "Reading List"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 2
-layout: service
+layout: resource
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
