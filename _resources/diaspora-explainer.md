@@ -11,6 +11,8 @@ intro_image_hide_on_mobile: false
 
 Diaspora is a big, unfamiliar word for most people. The following is a brief explainer of what is meant by the terms *diaspora* and *diaspora missions* and why they are so important for local churches in America today.
 
+![Dandelion graphic](../images/illustrations/dandelion.svg)
+
 ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
