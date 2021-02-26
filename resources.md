@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Resources for the local church
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+The most important task of the Peoples Next Door initiative is equipping local churches with the resources they need to engage in the mission of reaching diaspora people groups in our own communities with the gospel of Jesus Christ.

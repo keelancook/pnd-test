@@ -1,14 +1,12 @@
 ---
-title: "Superannuation"
+title: "What is Diaspora Missions?"
 date: 2018-11-28T15:14:54+10:00
 featured: true
-weight: 5
+weight: 1
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Diaspora is a big, unfamiliar word for most people. The following is a brief explainer of what is meant by the terms *diaspora* and *diaspora missions* and why they are so important for local churches in America today.
 
 ## Ne verba patulosque numen vix libet
 
