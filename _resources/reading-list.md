@@ -1,6 +1,6 @@
 ---
 title: "Reading List"
-date: 2018-11-28T15:15:34+10:00
+date: 2021-02-23
 featured: true
 weight: 1
 layout: resource

@@ -1,6 +1,6 @@
 ---
 title: "What is Diaspora Missions?"
-date: 2018-11-28T15:14:54+10:00
+date: 2021-02-20
 featured: true
 weight: 1
 layout: resource
