@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Peoples Next Door.
+# The least reached in arms reach
 
 An equpping hub for local churches seeking to engage the least-reached diaspora communities in their area.
