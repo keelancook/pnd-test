@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Peoples Next Door
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Helping local churches understand how to engage the least reached that are in arm's reach of their community.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Peoples Next Door.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+An equpping hub for local churches seeking to engage the least-reached diaspora communities in their area.
