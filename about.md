@@ -5,48 +5,10 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+In Acts 17, Paul reminds his listeners at the Areopagus that it is God who determines the periods and boundaries of man, so that they can seek Him and perhaps find Him. God is doing something big, and he is doing it in your town, maybe even your neighborhood, right now. Over the course of 20-30 years, global migration patterns have increased to new highs. More people are moving from country to country than ever before, and many of those peoples are moving to North America. While doors into the hardest-to-reach nations are rapidly closing to missionaries, God is orchestrating a movement of these least reached peoples into the heartland of evangelical Christianity. The least-reached peoples are now in arms reach of your local church. So, the question is… what will you do about it?
 
-## Ne verba patulosque numen vix libet
+> The least-reached peoples are now in arms reach of your church.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+The Peoples Next Door Project is an effort of the Urban Resource Initiative at Southeastern Baptist Theological Seminary to equip local churches, associations, conventions, and others to discover and engage international people groups in the North America. This blog serves as the online home for the Peoples Next Door project, a research and equipping initiative for missions in North America. Here you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+The project is led and maintained by Keelan Cook. Keelan is the associate director of the Union Baptist Association in Houston, TX and an instructor of North American Missiology for Southeastern. You can find out more about Keelan on [his personal website](https://keelancook.ml).
