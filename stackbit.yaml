@@ -174,7 +174,7 @@ models:
         name: date
       - type: string
         name: bodyClass
-  Resource:
+  resource:
     type: page
     label: Resource
     layout: resource
