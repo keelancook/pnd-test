@@ -4,6 +4,9 @@ date: 2021-02-20
 featured: true
 weight: 1
 layout: resource
+intro_image: "images/illustrations/dandelion.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 Diaspora is a big, unfamiliar word for most people. The following is a brief explainer of what is meant by the terms *diaspora* and *diaspora missions* and why they are so important for local churches in America today.
