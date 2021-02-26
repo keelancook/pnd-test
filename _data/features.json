@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Resource Library",
+    "description": "This site provides an extensive resource library for churches.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Church Consultation",
+    "description": "Feel free to contact us for a strategy consultation.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Online Training",
+    "description": "Coming Soon! A library of online training materials.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
