@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Resources
 layout: services
 intro_image: "images/illustrations/purim.svg"
 intro_image_absolute: true
