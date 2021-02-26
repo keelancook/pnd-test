@@ -12,3 +12,7 @@ In Acts 17, Paul reminds his listeners at the Areopagus that it is God who deter
 The Peoples Next Door Project is an effort of the Urban Resource Initiative at Southeastern Baptist Theological Seminary to equip local churches, associations, conventions, and others to discover and engage international people groups in the North America. This blog serves as the online home for the Peoples Next Door project, a research and equipping initiative for missions in North America. Here you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.
 
 The project is led and maintained by Keelan Cook. Keelan is the associate director of the Union Baptist Association in Houston, TX and an instructor of North American Missiology for Southeastern. You can find out more about Keelan on [his personal website](https://keelancook.ml).
+
+---
+
+*Illustrations on this site are provided by [Freepik Storyset](https://storyset.com/people).*
