@@ -1,4 +1,4 @@
-baseurl: '/pnd-test'
+baseurl: '/pnd'
 exclude: ['README.md']
 permalink: pretty
 title: 'Peoples Next Door'
@@ -16,7 +16,7 @@ footer:
 seo:
   meta_og_title: "Peoples Next Door"
   meta_og_type: "website"
-  meta_og_url: "https://keelancook.ml/pnd-test"
+  meta_og_url: "https://keelancook.ml/pnd"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
   meta_twitter_card: "summary"
