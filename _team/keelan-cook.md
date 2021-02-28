@@ -2,7 +2,7 @@
 title: "Keelan Cook"
 date: 2018-11-19
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/keelan-cook.jpg"
 jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/in/keelancook"
 promoted: true
@@ -10,6 +10,4 @@ weight: 1
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Keelan Cook is the associate director for the Union Baptist Association in Houston, TX and leads the Peoples Next Door project.
