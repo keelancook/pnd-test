@@ -14,6 +14,8 @@ layout: resource
 
 We can define *diaspora* as a group of people who live somewhere outside of their homeland. These groups of people are the result of unprecedented global migration in the last several decades. This migration of people groups from one country to another happens for many reasons. Some move because of war, famine, persecution, or natural disasters. Others move because of oppotunities for education or career advancement. Some are forced out of their homes by oppressive governments. Some leabe for fear of termination because of their beliefs (Wan, *[Diaspora Missiology](https://amzn.to/3q9Px5l)*, 2011). With the ease of modern transporation, it is easiter than ever to start the day in one country and end it in another. Add all of these reasons together, and more people are moving around than world than any moment in recorded history.
 
+---
+
 ## Diasporas in the United States
 These groups of people, or diasporas, leave their homw and establish new communities in other countries. These communities are often called [ethnic enclaves](https://keelancook.com/2017/02/22/what-is-an-ethnic-enclave-and-why-should-i-care/). An ethnic enclave, simply put, is an area (usually a neighborhood) in city where a large concentration of people from a similar ethnic background develops. 
 
@@ -21,13 +23,19 @@ These diaspora communities are becoming very common here in the United States. T
 
 In short, the face of America is changing. Now more than ever, you are more likely to have a neighbor from another country who speaks a different language and quite possibly has a completely different religion. Immigrant communities are no longer isolated to big cities. Suburbs and even rural areas are developing ethnic enclaves of their own, and we now all live within arms reach of these communities of people from different cultures and places.
 
-But the Bible is clear that God controls the movements of people. Acts 17 makes it clear that God is the one who controls the boundaries and times of humanity's dwelling. In other words, it is God who ultimately decides when and where people live. His all-powerful hand moves people all over the world. In fact Luke even tells us why God does this in Acts 17. It is so those people can seek God and perhaps find him. If that is true, then God is currently causing the biggest migration of peoples all over the world in recorded history, and he is moving more of them to our communities than anywhere else in the world for a purpose: that they might seek him and perhaps find him.
+But the Bible makes it clear that God controls the movements of people. In Acts 17, Paul claims that God is the one who controls the boundaries and times of humanity's dwelling. In other words, it is God who ultimately decides when and where people live. His all-powerful hand moves people all over the world. In fact Paul even tells us why God does this in Acts 17. It is so those people can seek God and perhaps find him. If that is true, then God is currently causing the biggest migration of peoples all over the world in recorded history, and he is moving more of them to our communities than anywhere else in the world for a purpose: that they might seek him and perhaps find him.
 
 ---
 ## What is diaspora missions?
-At the November 2009 Lausanne Diaspora Educators Consultation held in Seoul, participants defined Diaspora Missiology as “a missiological framework for understanding and participating in God’s redemptive mission among people living outside their place of origin" ([Scattered to Gather](https://amzn.to/3b5DDVJ), 2010.).
+At it's simplest, *diaspora missions* is engaging in the mission of the church among people who are part of these diaspora communities. A more detailed repsonse is that diaspora missions is a unique kind of missions due to the unique nature of immigration. Unlike general international missions, which attempts to go to people in their own culture, diaspora missions attempts the reverse. People who have left their home culture now find themselves a minority in a host culture that is not their own. This creates unique challenges and needs for members of a diaspora. Cross-cultural ministry is still essential to diaspora missions, but it turns the concept on its head.
 
+For a number of years, church leaders around the world have begun attempting to state and clarify the importance of diaspora missions. In 2009, a large group of these leaders gathered for the Lausanne Diaspora Educators Consultation and defined diaspora missiology as “a missiological framework for understanding and participating in God’s redemptive mission among people living outside their place of origin" ([Scattered to Gather](https://amzn.to/3b5DDVJ), 2010.). This group has since championed the incredible significance of immigration and these diaspora communities for the making of disciples among the least reached peoples.
+
+In practical terms, these diaspora communities and ethnic enclaves are an amazing opportunity to spread the gospel to the very same groups of people we are attempting to reach through international missions. Many millions of immigrants in the United States are coming from the places in the world that are least reached by the gospel of Jesus Christ. Often, these places make it virtually impossible to enter the country to share the gospel. However, when these people immigrate to the United States, the church now has wide open access to people who were previously closed off from the message of Christ.
 
 ---
 ## What is a local church to do?
 
+`Finish this section`
+
+The rise of diaspora communities are a crucial opportunity for local churches in America. It is so significant that diaspora missions is an important consideration for every local church. However, unprecedented access to the least reached peoples does not equal ease of mission. While access may have increased, the cultural barriers are still there. 
