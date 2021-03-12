@@ -17,11 +17,11 @@ seo:
   meta_og_title: "Peoples Next Door"
   meta_og_type: "website"
   meta_og_url: "https://keelancook.ml/pnd"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_image: "https://i.imgur.com/tXS9fHE.png"
+  meta_og_description: "The Peoples Next Door website is an equpping hub for local churches seeking to engage the least-reached diaspora communities in their area."
   meta_twitter_card: "summary"
   meta_twitter_site: "@keelancook"
-  meta_twitter_creator: "@zerostatic"
+  meta_twitter_creator: "@keelancook"
 
 collections:
   resources:
