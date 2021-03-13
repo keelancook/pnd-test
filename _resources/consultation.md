@@ -13,7 +13,7 @@ One of the most significant ways to accomplish this is through live consultation
 ## What does a consultation look like?
 A Peoples Next Door consultation is essentially an initial conversation with church leadership that briefly assesses the church and the community in order to provide counsel in establishing healthy diaspora missions practices.
 
-These conversaions usually take about an hour, and consist of questions about the church and any information the church may know about international people groups in their community. After getting to know a little about the church, it's current ministries, and desires for diaspora missions, the PND team member can provide some initial 
+These conversations usually take about an hour, and consist of questions about the church and any information the church may know about international people groups in their community. After getting to know a little about the church, it's current ministries, and desires for diaspora missions, the PND team member can provide some initial 
 
 A church does not need to have extensive (or any) knowledge of people groups nearby to begin this work or have a consultation, as part of the process is discovering if any groups are nearby.
 
