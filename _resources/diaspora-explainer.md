@@ -1,10 +1,10 @@
 ---
-title: "What is Diaspora Missions?"
-date: 2021-02-20
+title: What is Diaspora Missions?
+date: 2021-02-20T00:00:00-06:00
 featured: true
 weight: 1
 layout: resource
-
+modified: 2021-03-12T20:18:07-06:00
 ---
 
 *Diaspora* is an unfamiliar word for most people. The following is a brief explainer of what is meant by the terms *diaspora* and *diaspora missions* and why they are so important for local churches in America today.
@@ -38,4 +38,11 @@ In practical terms, these diaspora communities and ethnic enclaves are an amazin
 
 `Finish this section`
 
-The rise of diaspora communities are a crucial opportunity for local churches in America. It is so significant that diaspora missions is an important consideration for every local church. However, unprecedented access to the least reached peoples does not equal ease of mission. While access may have increased, the cultural barriers are still there. 
+The rise of diaspora communities is a crucial opportunity for local churches in America. It is so significant that diaspora missions is an important consideration for every local church. However, unprecedented access to the least reached peoples does not equal ease of mission. While access may have increased, the cultural barriers are still there.
+
+Diaspora missions means cross cultural ministry, even if it is just down the street. Most local churches in the United States have little experience engaging in disciple making across culture and language barriers. Despite a lack of experience, it is possible for local churches to engage in fruitful ministry to diaspora communities that shares the gospel in meaningful ways and make disciples across cultural barriers. 
+
+This is what the Peoples Next Door project is all about.
+
+`Provide brief explanation of the PND project, its aim, and how it does it.`
+
