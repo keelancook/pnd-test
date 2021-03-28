@@ -8,10 +8,19 @@ layout: resource
 
 The Sent Life is a podcast produced by the Center for Great Commission Studies at Southeastern Baptist Theological Seminary. Periodically, the Sent Life provides a special feature episode dedicated to the Peoples Next Door project. On these episodes, we tackle issues surrounding local church work in diaspora missions.
 
-The following is a growing list of these feature episodes. Be sure to follow the Sent life in order to listen to all of their episodes.
+The following is a growing list of these feature episodes. Be sure to [follow the Sent life](https://www.thecgcs.org/the-sent-life-podcast) in order to listen to all of their episodes.
 
-<iframe src="https://open.spotify.com/embed-podcast/show/7HmzNpfnTnrT62Vu0M64Zm" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## Peoples Next Door Feature Episodes
 
+### Episode 13: Gentrification
+This episode on gentrification is the latest in our monthly conversation series , Peoples Next Door. In the Peoples Next Door episodes, Keelan Cook will help us explore topics related to mission and ministry in urban areas and among diaspora peoples.
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/2o0NveJuwFNbqFMwzp24Ht" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
+
+### Episode 38: ESL Courses for Diaspora Missions
+Learn about a "Go & Tell" approach to English courses and how it leads to more missional opportunities that a traditional approach to ESL classes as a local church ministry.
+
+<iframe src="https://open.spotify.com/embed-podcast/show/7HmzNpfnTnrT62Vu0M64Zm" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
