@@ -11,6 +11,8 @@ A big list of helpful books and other resources on diaspora missions.
 ## Books
 Payne, J. D. [*Strangers Next Door: Immigration, Migration and Mission*](https://amzn.to/3u7yQJR). Downers Grove, Ill: IVP Books, 2012.
 
+Lanier, Sarah A. [*Foreign to Familiar: A Guide to Understanding Hot - And Cold - Climate Cultures*](https://amzn.to/2PCfHB9). Mc Dougal Publishing Company, 2000.
+
 Looney, Jared. [*Crossroads of the Nations: Diaspora, Globalization, and Evangelism*](https://amzn.to/3cyKo2Q). Portland: Urban Loft Publishers, 2015.
 
 Yamamori, Tetsunao. [*Scattered and Gathered: A Global Compendium of Diaspora Missiology*](https://amzn.to/39nI791). Edited by Sadiri Joy Tira. Wipf and Stock, 2016.
