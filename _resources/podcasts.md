@@ -1,7 +1,7 @@
 ---
 title: "Podcast Episodes"
 date: 2021-02-26
-featured: true
+featured: false
 weight: 1
 layout: resource
 ---
