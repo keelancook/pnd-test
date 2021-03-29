@@ -26,8 +26,8 @@ bodyClass: page-home
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% for resource in site.resources %}
+      {% if site.resources.featured=true %}
       <div class="col-12 col-md-4 mb-1">
-        {% if resource.featured=true %}
         <div class="resource resource-summary">
           <div class="resource-content">
             <h2 class="resource-title">
