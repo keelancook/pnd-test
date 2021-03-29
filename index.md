@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # The least reached in arms reach
 
-The Peoples Next Door website is an equpping hub for local churches seeking to engage the least-reached diaspora communities in their area.
+The Peoples Next Door website is an equipping hub for local churches seeking to engage the least-reached diaspora communities in their area.

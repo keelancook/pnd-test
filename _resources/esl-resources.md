@@ -16,6 +16,6 @@ Imagine ESL that does not require people to come to the building but instead goe
 * [Common Questions about ESL and Church Planting](https://keelancook.com/2018/05/10/common-questions-about-esl-and-church-planting/)
 
 ### Podcast Episode on Go & Tell ESL Strategy
-Listen to this podcast for an overview and argument for the benefits of using this approach to english courses in local church outreach.
+Listen to this podcast for an overview and argument for the benefits of using this approach to English courses in local church outreach.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/2naT435plkkj9mzN1dMuj0" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

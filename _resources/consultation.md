@@ -21,5 +21,5 @@ A church does not need to have extensive (or any) knowledge of people groups nea
 ## Who does a consultation?
 This conversation may take place by video or a phone call and will be with one of our Peoples Next Door team. Our team of pracitioners is growing, and we desire to connect churches with a member of our team who is closest to their region. Members of the PND team all have practical experience in a local church setting engaging people groups in gospel ministry and are passionate about helping other churches start this process. Each is familiar with the materials and processes available here on the PND website and can help a church navigate the initial phases of starting something at their own church.
 
-## How to request a consultation
+## How to Request a Consultation
 You may request a consultation for your church in one of two ways. First, you can find a list of our current team members on our [Team Page](/pnd/team). From there, you can contact any team member directly for a consultation. Our recommendation would be to connect with the  team member closest to your church. Alternatively, you can [fill out this form](form.com), and we will select a team member for you and they will reach out to you in order to set up your consultation.
