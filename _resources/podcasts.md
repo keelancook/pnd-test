@@ -10,7 +10,6 @@ layout: resource
 
 The following is a growing list of these feature episodes. Be sure to [follow The Sent Life](https://www.thecgcs.org/the-sent-life-podcast) in order to listen to all of their episodes.
 
-
 ## Peoples Next Door Feature Episodes
 
 ### Episode 13: Gentrification
