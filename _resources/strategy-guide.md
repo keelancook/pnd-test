@@ -11,8 +11,8 @@ The Peoples Next Door strategy guide is a free resource for anyone interested in
 
 <a href="{{ site.baseurl }}/pdfs/pnd-strategy-guide.pdf" target="_blank">Download PDF</a>
 
-<div class="row justify-content-left">
+<div class="row justify-content-center">
   <div class="col-auto">
-    <a class="button button-primary" href="{{site.baseurl}}/pdfs/pnd-strategy-guide.pdf">Download PDF</a>
+    <a class="button button-primary" href="{{site.baseurl}}/pdfs/pnd-strategy-guide.pdf" target="_blank">Download</a>
   </div>
 </div>
