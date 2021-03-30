@@ -1,9 +1,10 @@
 ---
-title: "Podcast Episodes"
-date: 2021-02-26
+title: Podcast Episodes
+date: 2021-02-26T00:00:00-06:00
 featured: false
-weight: 1
+weight: 7
 layout: resource
+modified: 2021-03-29T19:44:23-05:00
 ---
 
 **The Sent Life** is a podcast produced by the Center for Great Commission Studies at Southeastern Baptist Theological Seminary. Periodically, The Sent Life provides a special feature episode dedicated to the Peoples Next Door project. On these episodes, we tackle issues surrounding local church work in diaspora missions.
