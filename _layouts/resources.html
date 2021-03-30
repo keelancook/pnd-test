@@ -27,7 +27,7 @@ bodyClass: page-resources-list
           <h2 class="resource-title">
             <a href="{{site.baseurl}}{{ resource.url }}">{{ resource.title }}</a>
           </h2>
-          <p>{{ resource.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ resource.content | markdownify | strip_html | truncate: 250 }}</p>
         </div>
       </div>
     </div>
