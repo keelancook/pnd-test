@@ -2,7 +2,7 @@
 title: Peoples Next Door Strategy Guide
 author: Keelan Cook
 layout: resource
-featured: false
+featured: true
 date: 2021-03-29
 
 ---
