@@ -1,5 +1,5 @@
 ---
-title: Peoples Next Door Strategy Guide
+title: Free Strategy Guide
 author: Keelan Cook
 layout: resource
 featured: true
