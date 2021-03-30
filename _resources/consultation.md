@@ -1,6 +1,6 @@
 ---
 title: Consultation
-date: 2021-02-26T00:00:00-06:00
+date: 2021-02-24T00:00:00-06:00
 featured: true
 weight: 1
 layout: resource

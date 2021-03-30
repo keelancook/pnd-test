@@ -3,7 +3,7 @@ title: Free Strategy Guide
 author: Keelan Cook
 layout: resource
 featured: true
-date: 2021-03-29
+date: 2021-02-25
 
 ---
 
