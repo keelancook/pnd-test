@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/marie-burrus.jpg"
 jobtitle: "East Coast Consultant"
-linkedinurl: "https://www.linkedin.com/example2"
+linkedinurl: "https://www.linkedin.com/in/marie-burrus-b7a9b27b/"
 promoted: true
 weight: 2
 layout: team
