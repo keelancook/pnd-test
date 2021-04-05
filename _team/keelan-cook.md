@@ -3,7 +3,7 @@ title: "Keelan Cook"
 date: 2018-11-19
 draft: false
 image: "images/team/keelan-cook.jpg"
-jobtitle: "Director"
+jobtitle: "Team Lead | Central U.S. Consultant"
 linkedinurl: "https://www.linkedin.com/in/keelancook"
 promoted: true
 weight: 1
