@@ -35,14 +35,10 @@ In practical terms, these diaspora communities and ethnic enclaves are an amazin
 
 ---
 ## What is a local church to do?
-
-`Finish this section`
-
 The rise of diaspora communities is a crucial opportunity for local churches in America. It is so significant that diaspora missions is an important consideration for every local church. However, unprecedented access to the least reached peoples does not equal ease of mission. While access may have increased, the cultural barriers are still there.
 
-Diaspora missions means cross-cultural ministry, even if it is just down the street. Most local churches in the United States have little experience engaging in disciple making across culture and language barriers. Despite a lack of experience, it is possible for local churches to engage in fruitful ministry to diaspora communities that shares the gospel in meaningful ways and make disciples across cultural barriers. 
+Diaspora missions means cross-cultural ministry, even if it is just down the street. Most local churches in the United States have little experience engaging in disciple making across culture and language barriers. Despite a lack of experience, it is possible for local churches to engage in fruitful ministry to diaspora communities that shares the gospel in meaningful ways and make disciples across cultural barriers. This is what the Peoples Next Door project is all about. 
 
-This is what the Peoples Next Door project is all about.
+Local church ministry to diaspora peoples in their community consists of two broad categories: discovery and engagement. Using simple, reproducible methods, it is possible to equip regular congregation members with the skills necessary to begin discovering the various diaspora groups in their won community and then engage them in healthy way that leads toward gospel understanding. Discovery is not as complicated as it sounds, and when it's done well, it naturally leads to engagement. 
 
-`Provide brief explanation of the PND project, its aim, and how it does it.`
-
+This website provides many resources to equip local church members for this important work. Feel free to look around and use what you find to set your congregation on a journey to engage the least reached that are now in arms reach of your church. 
