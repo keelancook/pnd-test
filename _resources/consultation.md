@@ -24,4 +24,4 @@ This conversation may take place by video or a phone call and will be with one o
 ## How to Request a Consultation
 You may request a consultation for your church in one of two ways. First, you can find a list of our current team members on our [Team Page](/pnd/team). From there, you can contact any team member directly for a consultation. Our recommendation would be to connect with the team member closest to your church. Alternatively, you can click the button below, and we will select a team member for you and they will reach out to you and set up your consultation.
 
-<a class="button button-primary" href="{{site.baseurl}}/pdfs/pnd-strategy-guide.pdf" style="text-decoration: none;" target="_blank">Request a Consultation</a>
+<a class="button button-primary" href="https://forms.gle/4gxfgFqJmSifAn2E6" style="text-decoration: none;" target="_blank">Request a Consultation</a>
