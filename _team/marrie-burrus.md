@@ -6,7 +6,7 @@ image: "images/team/marie-burrus.jpg"
 jobtitle: "East Coast Consultant"
 linkedinurl: "https://www.linkedin.com/in/marie-burrus-b7a9b27b/"
 promoted: true
-weight: 7
+weight: 2
 layout: team
 ---
 
