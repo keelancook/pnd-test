@@ -1,7 +1,7 @@
 ---
 title: Contact
-layout: contact
-bodyClass: page-contact
+layout: (contact)
+bodyClass: (page-contact)
 ---
 
 ## Our team would love to hear from you!
