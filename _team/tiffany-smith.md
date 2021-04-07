@@ -6,7 +6,7 @@ image: "images/team/tiffany-smith.jpg"
 jobtitle: "Southeast Constultant"
 linkedinurl: "https://www.linkedin.com/in/tiffanydsmith/"
 promoted: true
-weight: 7
+weight: 2
 layout: team
 ---
 
