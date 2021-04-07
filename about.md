@@ -5,7 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
-In Acts 17, Paul reminds his listeners at the Areopagus that it is God who determines the periods and boundaries of man, so that they can seek Him and perhaps find Him. God is doing something big, and he is doing it in your town, maybe even your neighborhood, right now. Over the course of 20-30 years, global migration patterns have increased to new highs. More people are moving from country to country than ever before, and many of those peoples are moving to North America. While doors into the hardest-to-reach nations are rapidly closing to missionaries, God is orchestrating a movement of these least reached peoples into the heartland of evangelical Christianity. The least-reached peoples are now in arms reach of your local church. So, the question is… what will you do about it?
+In Acts 17, Paul reminds his listeners at the Areopagus that it is God who determines the periods and boundaries of man so that they can seek Him and perhaps find Him. God is doing something big, and he is doing it in your town, maybe even your neighborhood, right now. For 20-30 years, global migration patterns have increased to new highs. More people are moving from country to country than ever before, and many of those peoples are moving to North America. While doors into the hardest-to-reach nations are rapidly closing to missionaries, God is orchestrating a movement of these least reached peoples into the heartland of evangelical Christianity. The least-reached peoples are now in arms reach of your local church. So, the question is… what will you do about it?
 
 > The least-reached peoples are now in arms reach of your church.
 
