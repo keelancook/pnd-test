@@ -10,5 +10,4 @@ weight: 7
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Tiffany Smith is the regional equipper for Canada at the North American Mission Board, where she works with church leaders to develop strategies that engage their people in the Great Commission. Tiffany has a particular heart and passion for developing the next generation of leaders in living a "Sent Life." You can connect with her on Twitter ([@tiffanydsmith](https://twitter.com/tiffanydsmith) or through her blog, [Missional Mayhem](https://missionalmayhem.com/about/).
